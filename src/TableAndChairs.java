@@ -21,6 +21,8 @@ public class TableAndChairs {
         System.out.println("I        I     X                  X     I        I");
         System.out.println("R        R     X                  X     R        R");
 
+        System.out.println("Look Mom! I Can Commit To Something!");
+
 
     }
 }
